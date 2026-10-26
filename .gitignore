@@ -6,6 +6,5 @@ out
 *.log
 
 # local media + migration artifacts
-/media
 /backups
 /migration-reports
