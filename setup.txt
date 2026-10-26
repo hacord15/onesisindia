@@ -1,0 +1,11 @@
+Step 1 Terminal 1 — PostgreSQL 
+  
+pass:  postgres2 
+
+Connect with the db 
+
+Terminal 2 — Next.js dev server
+
+
+Email: admin@onesis.in
+Password: ChangeMe123!

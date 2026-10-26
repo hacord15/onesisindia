@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env*
+!.env.example
+*.log
+
+# local media + migration artifacts
+/media
+/backups
+/migration-reports
